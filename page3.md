@@ -26,8 +26,8 @@ function validateForm() {
 			<div class="panel-heading">
 				<div align="left">
 					<b>Intro to services</b><br>
-					<<img src="images/nobugs.png" alt="Rat man"><br><br>
-					<<img src="images/bugs.png" alt="Rat man"><br><br>
+					<img src="images/nobugs.png" alt="Rat man"><br><br>
+					<img src="images/bugs.png" alt="Rat man"><br><br>
 				</div>
 			</div>
 			       
