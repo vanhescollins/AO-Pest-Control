@@ -10,7 +10,7 @@
 		<script type="text/javascript" language="javascript" src="/js/dataTables.bootstrap.min.js">	</script>
 		<script type="text/javascript" language="javascript" src="/js/bootstrap-checkbox.min.js"></script>
 		<script type="text/javascript" language="javascript" src="/js/bootstrap-datepicker.js"></script>
-<h2>Welcome to AO Pest Control</h2>
+<h2>Home</h2>
 
 <body>
 <div class="col-md-8">
