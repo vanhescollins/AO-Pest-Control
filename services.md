@@ -56,8 +56,7 @@ function validateForm() {
 onsubmit="return validateForm()" method="post">
 Name: <input type="text" name="fname">
 <input type="submit" value="Submit">
-    
-    <p>Below is link to home</p>
+ <br><br>
 
 <a href="/AO-Pest-Control/">Back to Home</a><br>
 <a href="About">About</a><br>
