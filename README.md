@@ -66,3 +66,13 @@ function myFunction() {
 <h1>A Web Page</h1>
 <p id="demo">A Paragraph</p>
 <button type="button" onclick="myFunction()">Try it</button>
+
+<h2>External JavaScript</h2>
+
+<p id="demo3">A Paragraph.</p>
+
+<button type="button" onclick="myExternalFunction()">Try it</button>
+
+<p>(myExternalFunction is stored in an external file called "myScript.js")</p>
+
+<script src="myScript.js"></script>
