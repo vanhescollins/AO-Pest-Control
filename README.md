@@ -21,11 +21,6 @@ Click me to display Date and Time.</button>
 
 <p id="demo"></p>
 
-<h2>What Can JavaScript Do?</h2>
-
-<p id="demo2">JavaScript can change HTML content.</p>
-
-<button type="button" onclick='document.getElementById("demo2").innerHTML = "Hello JavaScript!"'>Click Me!</button>
 
 <p>In this case JavaScript changes the src (source) attribute of an image.</p>
 
@@ -43,15 +38,6 @@ function myFunction() {
 <h1>A Web Page</h1>
 <p id="demo4">A Paragraph</p>
 <button type="button" onclick="myFunction()">Try it</button>
-
-<h2>External JavaScript</h2>
-
-<p id="demo3">A Paragraph.</p>
-
-<button type="button" onclick="myExternalFunction()">Try this!!</button>
-
-<p>(myExternalFunction is stored in an external file called "jsScript.js")</p>
-
 
 
 <p id="TodayDate"></p>
