@@ -14,12 +14,7 @@
 
 <body>
 <div class="col-md-8">
-		<div class="panel panel-info">
-			<div class="panel-heading">
-				<div align="left">
-					<b>Summary of items currently on Stock Order</b>
-				</div>
-			</div>
+   
 			       
 			<table class="table custom">
 				
@@ -35,7 +30,7 @@
 				</tbody>
 			</table>
 			
-		</div>
+		
 	</div>
 
 <script>
