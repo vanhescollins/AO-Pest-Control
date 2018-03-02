@@ -99,3 +99,5 @@ onsubmit="return validateForm()" method="post">
 Name: <input type="text" name="fname">
 <input type="submit" value="Submit">
 </form>
+<br><br>
+<a href="page2.html">Page2</a>
