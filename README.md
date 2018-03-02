@@ -101,4 +101,6 @@ Name: <input type="text" name="fname">
 <input type="submit" value="Submit">
 </form>
 <br><br>
-<a href="page2.html">Page2</a>
+<a href="page3">Page3</a><br>
+
+<a href="page3.md">Page3.md</a>
