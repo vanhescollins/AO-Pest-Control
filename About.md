@@ -1,4 +1,4 @@
-## Services Offered
+## About Us
 <head>
 <link href="/css/bootstrap.min.css" rel="stylesheet">
 		<link href="/style.css" rel="stylesheet" type="text/css"> 
@@ -25,7 +25,7 @@ function validateForm() {
 		<div class="panel panel-info">
 			<div class="panel-heading">
 				<div align="left">
-					<b>Summary of items currently on Stock Order</b>
+					<b>About Us</b>
 				</div>
 			</div>
 			       
@@ -52,12 +52,7 @@ function validateForm() {
 			
 		</div>
 	</div>
-<form name="myForm" action="/action_page.php"
-onsubmit="return validateForm()" method="post">
-Name: <input type="text" name="fname">
-<input type="submit" value="Submit">
-    
-    <p>Below is link to home</p>
+<br><br>
 
 <a href="/AO-Pest-Control/">Back to Home</a><br>
 <a href="About">About</a><br>
