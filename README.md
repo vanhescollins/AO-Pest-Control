@@ -60,11 +60,11 @@ Click me to display Date and Time.</button>
 
 <script>
 function myFunction() {
-    document.getElementById("demo").innerHTML = "Paragraph changed.";
+    document.getElementById("demo4").innerHTML = "Now the text changed!!!.";
 }
 </script>
 <h1>A Web Page</h1>
-<p id="demo">A Paragraph</p>
+<p id="demo4">A Paragraph</p>
 <button type="button" onclick="myFunction()">Try it</button>
 
 <h2>External JavaScript</h2>
@@ -73,6 +73,6 @@ function myFunction() {
 
 <button type="button" onclick="myExternalFunction()">Try it</button>
 
-<p>(myExternalFunction is stored in an external file called "myScript.js")</p>
+<p>(myExternalFunction is stored in an external file called "jsScript.js")</p>
 
-<script src="myScript.js"></script>
+<script src="jsScript.js"></script>
