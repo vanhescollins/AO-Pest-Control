@@ -7,6 +7,7 @@ function validateForm() {
     }
 }
 </script>
+<script src="js/jsScript.js"></script>
 
 ## Welcome to my cars website
 
@@ -85,7 +86,7 @@ function myFunction() {
 
 <p>(myExternalFunction is stored in an external file called "jsScript.js")</p>
 
-<script src="jsScript.js"></script>
+
 
 <p id="TodayDate"></p>
 
