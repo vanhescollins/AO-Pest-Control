@@ -64,7 +64,7 @@ Click me to display Date and Time.</button>
 
 <button onclick="document.getElementById('myImage').src='images/pic_bulbon.gif'">Turn on the light</button>
 
-<img id="myImage" src="pic_bulboff.gif" style="width:100px">
+<img id="myImage" src="images/pic_bulboff.gif" style="width:100px">
 
 <button onclick="document.getElementById('myImage').src='images/pic_bulboff.gif'">Turn off the light</button>
 
