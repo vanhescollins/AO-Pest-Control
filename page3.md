@@ -25,7 +25,9 @@ function validateForm() {
 		<div class="panel panel-info">
 			<div class="panel-heading">
 				<div align="left">
-					<b>Summary of items currently on Stock Order</b>
+					<b>Intro to services</b><br>
+					<<img src="images/nobugs.png" alt="Rat man"><br><br>
+					<<img src="images/bugs.png" alt="Rat man"><br><br>
 				</div>
 			</div>
 			       
