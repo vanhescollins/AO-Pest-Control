@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my cars website
 
 You can use the [editor on GitHub](https://github.com/vanhescollins/car/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -43,3 +43,17 @@ onclick="document.getElementById('demo').innerHTML = Date()">
 Click me to display Date and Time.</button>
 
 <p id="demo"></p>
+
+<h2>What Can JavaScript Do?</h2>
+
+<p id="demo2">JavaScript can change HTML content.</p>
+
+<button type="button" onclick='document.getElementById("demo2").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+
+<p>In this case JavaScript changes the src (source) attribute of an image.</p>
+
+<button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>
+
+<img id="myImage" src="pic_bulboff.gif" style="width:100px">
+
+<button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn off the light</button>
