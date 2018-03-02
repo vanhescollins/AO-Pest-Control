@@ -1,3 +1,13 @@
+<script>
+function validateForm() {
+    var x = document.forms["myForm"]["fname"].value;
+    if (x == "") {
+        alert("Name must be filled out");
+        return false;
+    }
+}
+</script>
+
 ## Welcome to my cars website
 
 You can use the [editor on GitHub](https://github.com/vanhescollins/car/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -83,3 +93,9 @@ function myFunction() {
 var d = new Date();
 document.getElementById("TodayDate").innerHTML = d.toDateString();
 </script>
+
+<form name="myForm" action="/action_page.php"
+onsubmit="return validateForm()" method="post">
+Name: <input type="text" name="fname">
+<input type="submit" value="Submit">
+</form>
