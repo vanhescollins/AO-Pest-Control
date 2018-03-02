@@ -76,3 +76,10 @@ function myFunction() {
 <p>(myExternalFunction is stored in an external file called "jsScript.js")</p>
 
 <script src="jsScript.js"></script>
+
+<p id="TodayDate"></p>
+
+<script>
+var d = new Date();
+document.getElementById("TodayDate").innerHTML = d.toDateString();
+</script>
