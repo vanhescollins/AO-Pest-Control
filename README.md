@@ -82,7 +82,7 @@ function myFunction() {
 
 <p id="demo3">A Paragraph.</p>
 
-<button type="button" onclick="myExternalFunction()">Try it</button>
+<button type="button" onclick="myExternalFunction()">Try this!!</button>
 
 <p>(myExternalFunction is stored in an external file called "jsScript.js")</p>
 
