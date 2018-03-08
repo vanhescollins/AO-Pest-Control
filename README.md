@@ -42,7 +42,6 @@ hr {
     width: 40%;
 }
 </style>
-</script>
 <body>
 
 <div class="bgimg">
