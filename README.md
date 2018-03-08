@@ -15,16 +15,18 @@
 <body>
 <div class="col-md-8">
 
-<div class="bgimg">
+
   <div class="topleft">
     <p>A O Pest Control</p>
   </div>
+  <div>
+	<img src="images/construction.jpg" align="center"><br><br>
+  </div>
   <div class="middle">
-    <h1>COMING SOON</h1>
-    <hr>
+    <h1>AO PEST CONTROL SERVICES WILL BE COMING SOON</h1>
   </div>
   <div class="bottomleft">
-    <p>We'll be with you soon!</p>
+    <p>Please come back again soon</p>
   </div>
 </div>
 		
