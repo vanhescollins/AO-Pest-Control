@@ -1,5 +1,6 @@
 <div class="col-md-8">
 <style>
+<script>
 body, html {
     height: 100%;
     margin: 0;
@@ -41,6 +42,7 @@ hr {
     width: 40%;
 }
 </style>
+</script>
 <body>
 
 <div class="bgimg">
