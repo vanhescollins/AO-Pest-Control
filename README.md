@@ -16,15 +16,8 @@
 
 
 
-  <div class="topleft">
-    <p>A O Pest Control</p>
-  </div>
+  
   <div>
 	<img src="images/construction.jpg" align="center"><br><br>
-  </div>
-  <div class="middle">
-    <h1>AO PEST CONTROL SERVICES WILL BE COMING SOON</h1>
-  </div>
-  <div class="bottomleft">
-    <p>Please come back again soon</p>
+	<h1>AO PEST CONTROL SERVICES WILL BE COMING SOON</h1><br><br><br><br>
   </div>
