@@ -13,7 +13,7 @@
 
 
 <body>
-<div class="col-md-8">
+
 
 
   <div class="topleft">
@@ -28,6 +28,3 @@
   <div class="bottomleft">
     <p>Please come back again soon</p>
   </div>
-</div>
-		
-</div>
