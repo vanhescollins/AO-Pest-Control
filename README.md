@@ -1,7 +1,4 @@
-
 <div class="col-md-8">
-   
-
 <style>
 body, html {
     height: 100%;
@@ -53,10 +50,9 @@ hr {
   <div class="middle">
     <h1>COMING SOON</h1>
     <hr>
-    <p>35 days left</p>
   </div>
   <div class="bottomleft">
-    <p>Some text</p>
+    <p>We'll be with you soon!</p>
   </div>
 </div>
 		
