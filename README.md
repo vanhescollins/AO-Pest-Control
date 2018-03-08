@@ -18,6 +18,6 @@
 
   
   <div>
-	<img src="images/construction.jpg" align="center"><br><br>
+	<img src="images/construction2.jpg" align="center"><br><br>
 	<h3>AO PEST CONTROL SERVICES WILL BE COMING SOON</h3><br><br><br><br>
   </div>
