@@ -16,32 +16,6 @@
 <div class="col-md-8">
    
 			       
-			<table class="table custom">
-				
-				<tbody>
-            <tr> 
-						<td valign="center"><img src="images/drains.jpg" alt="man clearing drain"></td> 
-						<td>Wasps are known to sting even when they are not provoked.<br>A sting can be extremely painful especially when you have an allergic reaction. Wasp nest removal is therefore required when you notice a level of activity of wasps in and around your property in order to reduce the risk of being stung.</td> 
-						<td valign="center"><img src="images/drains.jpg" alt="man clearing drain"></td> </tr>
-						
-                <tr><td>When dealing with wasp nest removal it is vital you do not attempt this yourself. Wasp nest removal can be extremely dangerous, multiple stings can lead to a hospital visit and in rare cases where wasps have stung inside the mouth or other sensitive areas even death.</td>
-                <td valign="center"><img src="images/drains.jpg" alt="man clearing drain"></td><td>When dealing with wasp nest removal it is vital you do not attempt this yourself. Wasp nest removal can be extremely dangerous, multiple stings can lead to a hospital visit and in rare cases where wasps have stung inside the mouth or other sensitive areas even death.</td> </tr>
-                
-				</tbody>
-			</table>
+			<br><br><b> THIS WEBSITE IS UNDER CONSTRUCTION, PLEASE COME BACK SOOON!</b><br><br>
 			
-		
-	</div>
-
-<script>
-var d = new Date();
-document.getElementById("TodayDate").innerHTML = d.toDateString();
-</script>
-
-
-<br><br>
-
-<a href="/AO-Pest-Control/">Back to Home</a><br>
-<a href="About">About</a><br>
-<a href="services">Services</a><br>
-<a href="ContactUs">Contact Us</a><br>
+</div>
