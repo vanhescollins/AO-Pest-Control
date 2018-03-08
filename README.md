@@ -10,14 +10,14 @@
 		<script type="text/javascript" language="javascript" src="/js/dataTables.bootstrap.min.js">	</script>
 		<script type="text/javascript" language="javascript" src="/js/bootstrap-checkbox.min.js"></script>
 		<script type="text/javascript" language="javascript" src="/js/bootstrap-datepicker.js"></script>
-<h2>Home</h2>
+
 
 <body>
 <div class="col-md-8">
 
 <div class="bgimg">
   <div class="topleft">
-    <p>A O Pest ontrol</p>
+    <p>A O Pest Control</p>
   </div>
   <div class="middle">
     <h1>COMING SOON</h1>
