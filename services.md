@@ -81,7 +81,7 @@
   </div>
 </div>
 <div class="container">
-  <img src="images/rat1.jpg" alt="Rats" style="width:100%">
+  <img src="/images/rat1.jpg" alt="Rats" style="width:100%">
   <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#rats">Rats</button>
   <div id="rats" class="collapse">
 	  <h5>Recommended Treatment</h5>
@@ -99,7 +99,7 @@
   </div>
 </div>
 <div class="container">
-  <img src="images/bedbug2.jpg" alt="Bedbug" style="width:100%">
+  <img src="/images/bedbug2.jpg" alt="Bedbug" style="width:100%">
   <button class="btn">Button</button>
 </div>
 <a href="/AO-Pest-Control/">Back to Home</a><br>
