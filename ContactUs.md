@@ -27,7 +27,7 @@ function validateForm() {
       <li><a href="readme2">Home</a></li>
       <li><a href="About">About</a></li>
       <li><a href="services">Services</a></li>
-      <li class="active><a href="ContactUs">Contact</a></li>
+      <li class="active"><a href="ContactUs">Contact</a></li>
     </ul>
   </div>
 </nav>
