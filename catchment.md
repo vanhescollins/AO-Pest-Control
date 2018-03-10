@@ -1,15 +1,16 @@
+<!DOCTYPE HTML>  
+<html>
 <head>
 <link href="/css/bootstrap.min.css" rel="stylesheet">
-<link href="/style.css" rel="stylesheet" type="text/css"> 
-<script src="/js/jquery.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
-<link rel="stylesheet" type="text/css" href="/css/dataTables.bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="/css/datepicker.css">
-<script type="text/javascript" language="javascript" src="/js/jquery.dataTables.min.js"></script>
-<script type="text/javascript" language="javascript" src="/js/dataTables.bootstrap.min.js">	</script>
-<script type="text/javascript" language="javascript" src="/js/bootstrap-checkbox.min.js"></script>
-<script type="text/javascript" language="javascript" src="/js/bootstrap-datepicker.js"></script>
-    
+	<link href="/style.css" rel="stylesheet" type="text/css"> 
+	<script src="/js/jquery.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="/css/dataTables.bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="/css/datepicker.css">
+	<script src="/js/jquery.dataTables.min.js"></script>
+	<script src="/js/dataTables.bootstrap.min.js">	</script>
+	<script src="/js/bootstrap-checkbox.min.js"></script>
+	<script src="/js/bootstrap-datepicker.js"></script>
 <!--Google Maps-->
 <script src="https://maps.google.com/maps/api/js"></script>
 <style>
@@ -29,7 +30,7 @@
 .container {
     position: relative;
     width: 100%;
-   // max-width: 400px;
+    max-width: 400px;
 }
 
 .container img {
@@ -88,15 +89,17 @@
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <ul class="nav navbar-nav navbar-center">
-      <li><a href="readme2">Home</a></li>
-      <li><a href="About">About</a></li>
-      <li><a href="services">Services</a></li>
-      <li class="active"><a href="catchment">Catchment Areas/Hours</a></li>
-      <li><a href="ContactUs">Contact</a></li>
+      <li><a href="readme2.md">Home</a></li>
+      <li><a href="About.md">About</a></li>
+      <li><a href="services.md">Services</a></li>
+      <li class="active"><a href="catchment.md">Catchment Areas/Hours</a></li>
+      <li><a href="ContactUs.md">Contact</a></li>
     </ul>
   </div>
 </nav>
-<br>
+<!-- **********************************************
+**************************************************
+-->
 	<h2>Areas I Serve</h2>
 	<table width="90%">
 		<tr>
@@ -142,6 +145,9 @@
 		</tr>
 	</table>
 <br><br>
+<!-- **********************************************
+**************************************************
+-->
 
 <div id="footerDIV">
 <table width="90%" align="center">
@@ -153,3 +159,4 @@
 </table>
 </div>
 </body>
+</html>
