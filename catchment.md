@@ -1,7 +1,6 @@
 <html>
 <head>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
-	<link href="/style.css" rel="stylesheet" type="text/css"> 
 	<script src="/js/jquery.min.js"></script>
 	<script src="/js/bootstrap.min.js"></script>
 	<script src="/js/dataTables.bootstrap.min.js">	</script>
