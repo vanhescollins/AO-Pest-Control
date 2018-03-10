@@ -73,7 +73,7 @@
 	<td>col9</td>
 	<td>col10</td>
 	<td>col11</td></tr>
-<tr><td>
+<tr><td colspan="12">
 	<div id="titleDIV">
 		<table width="90%" align="center">
 		<tr>
