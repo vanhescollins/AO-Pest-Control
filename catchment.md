@@ -86,11 +86,11 @@
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <ul class="nav navbar-nav navbar-center">
-      <li><a href="readme2.md">Home</a></li>
-      <li><a href="About.md">About</a></li>
-      <li><a href="services.md">Services</a></li>
-      <li class="active"><a href="catchment.md">Catchment Areas/Hours</a></li>
-      <li><a href="ContactUs.md">Contact</a></li>
+      <li><a href="readme2">Home</a></li>
+      <li><a href="About">About</a></li>
+      <li><a href="services">Services</a></li>
+      <li class="active"><a href="catchment">Catchment Areas/Hours</a></li>
+      <li><a href="ContactUs">Contact</a></li>
     </ul>
   </div>
 </nav>
