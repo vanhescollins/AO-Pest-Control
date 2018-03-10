@@ -47,25 +47,9 @@
 <body>
 
 <div class="container">
-  <h2>Pests That I Treat</h2>
-  <p>Click on the buttons below to show the details for pests that I treat</p>
-  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#mice">Mice</button>
-  <div id="mice" class="collapse">
-	  <h5>Recommended Treatment</h5>
-	  <ul>
-	  <li>Details of treatment</li>
-	  <li>Details of treatment</li>
-	  <li>Details of treatment</li>
-	  </ul>
-	  <h5>Visits/Follow up Details</h5>
-	  <ul>
-	  <li>Visit/Follow up</li>
-	  <li>Visit/Follow up</li>
-	  <li>Visit/Follow up</li>
-	  </ul>
-  </div>
-  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#Fleas">Fleas</button>
-  <div id="Fleas" class="collapse">
+  <img src="/images/rat1.jpg" alt="Rats" style="width:100%">
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#rats">Rats</button>
+  <div id="rats" class="collapse">
 	  <h5>Recommended Treatment</h5>
 	  <ul>
 	  <li>Details of treatment</li>
@@ -81,9 +65,9 @@
   </div>
 </div>
 <div class="container">
-  <img src="/images/rat1.jpg" alt="Rats" style="width:100%">
-  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#rats">Rats</button>
-  <div id="rats" class="collapse">
+  <img src="/images/mouse1.jpg" alt="Mice" style="width:100%">
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#mice">Mice</button>
+  <div id="mice" class="collapse">
 	  <h5>Recommended Treatment</h5>
 	  <ul>
 	  <li>Details of treatment</li>
