@@ -60,11 +60,11 @@
 <table border="1">
 <tr>
 	<td>
-		<img src="/images/ao2.jpg" class="rounded" alt="Andrew">
+		<img src="/images/ao2.jpg" class="img-circle" alt="Andrew"  width="304" height="236">
 	
 	</td>
 	<td>
-		<h5>Hello, my name is Andrew oswald. </H5>
+		<h5>Hello, my name is Andrew Oswald. </H5>
 		With 26 years experience as a pest control technician, I am able to offer you a reliable service at competitive rates.<br>
 		I am fully qualified and up to date with the most recent types of treatments for unwanted pests. In addition to eradication, I am able to provide you with information about proofing recommendations for your home.<br>
 		My mission is to treat all types of pests as quickly, safely and discreetly as possible.<br>
@@ -72,6 +72,13 @@
 		
 	</td>
 </tr>
+<tr><td colspan="2" align="center"><br><h5>Qualifications</h5>
+	<ul>
+		<li>RSPH qualified technician</li>
+		<li>Member of BASIS PROMPT Register for Pest Technicians</li>
+	</ul><br>
+	
+	
 </table><br>
 <nav class="navbar navbar-default">
   <div class="container-fluid">
