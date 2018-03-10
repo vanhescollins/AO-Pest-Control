@@ -30,7 +30,7 @@
 .container {
     position: relative;
     width: 100%;
-    max-width: 400px;
+   // max-width: 400px;
 }
 
 .container img {
