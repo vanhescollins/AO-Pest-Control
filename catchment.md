@@ -63,7 +63,16 @@
 </head>
 <body>
 <table width="100%" border="1">
-	<tr><td>Here</td><td>col2</td><td>col3</td></tr>
+	<tr><td>Here</td><td>col2</td><td>col3</td>
+	<td>col3</td>
+	<td>col4</td>
+	<td>col5</td>
+	<td>col6</td>
+	<td>col7</td>
+	<td>col8</td>
+	<td>col9</td>
+	<td>col10</td>
+	<td>col11</td></tr>
 <tr><td>
 	<div id="titleDIV">
 		<table width="90%" align="center">
