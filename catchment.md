@@ -65,23 +65,7 @@
 
 <body>
 <div id="titleDIV">
-	<table width="90%" align="center">
-		<tr>
-			<td align="center">
-				<h1>AO Pest Control</H1>
-			</td>
-		</tr>
-		<tr>
-			<td align="center">	
-				<h4><i>Your first port of call for unwanted pests</i></h4>
-			</td>
-		</tr>
-		<tr>
-			<td align="left">
-				<h3>Tel : 07808***757</h3>
-			</td>
-		</tr>
-	</table>
+	A O Pest Control
 </div>
 <nav class="navbar navbar-default">
   <div class="container-fluid">
@@ -99,12 +83,6 @@
 CONTENT HERE
 
 <div id="footerDIV">
-<table width="90%" align="center">
-	<tr>
-		<td align="center">
-			<h4><i>Call 07808***757 today for a no obligation, free estimate!</i></h4>
-		</td>
-	</tr>
-</table>
+Footer
 </div>
 </body>
