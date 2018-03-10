@@ -32,9 +32,24 @@
 	  <li>Visit/Follow up</li>
 	  </ul>
   </div>
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#Fleas">Fleas</button>
+  <div id="Fleas" class="collapse">
+	  <h5>Recommended Treatment</h5>
+	  <ul>
+	  <li>Details of treatment</li>
+	  <li>Details of treatment</li>
+	  <li>Details of treatment</li>
+	  </ul>
+	  <h5>Visits/Follow up Details</h5>
+	  <ul>
+	  <li>Visit/Follow up</li>
+	  <li>Visit/Follow up</li>
+	  <li>Visit/Follow up</li>
+	  </ul>
+  </div>
 </div>
 <div class="container">
-  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#rats">Mice</button>
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#rats">Rats</button>
   <div id="rats" class="collapse">
 	  <h5>Recommended Treatment</h5>
 	  <ul>
