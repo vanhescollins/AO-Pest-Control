@@ -21,6 +21,16 @@ function validateForm() {
 </script>
 </head>
 <body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <ul class="nav navbar-nav">
+      <li><a href="readme2">Home</a></li>
+      <li class="active"><a href="About">About</a></li>
+      <li><a href="services">Services</a></li>
+      <li><a href="ContactUs">Contact</a></li>
+    </ul>
+  </div>
+</nav>
 <div class="col-md-8">
 		<div class="panel panel-info">
 			<div class="panel-heading">
