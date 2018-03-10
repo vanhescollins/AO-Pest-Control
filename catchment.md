@@ -61,7 +61,7 @@
 
 </head>
 <body>
-<table width="100%"> border="1">
+<table width="100%" border="1">
 	<tr><td>Here</td></td></tr>
 <tr><td>
 	<div id="titleDIV">
