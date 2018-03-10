@@ -75,7 +75,7 @@
 	<td>col11</td></tr>
 <tr><td colspan="12">
 	<div id="titleDIV">
-		<table width="90%" align="center">
+		<table width="100%" align="center">
 		<tr>
 			<td align="center" colspan="12">
 				<h1>AO Pest Control</H1>
