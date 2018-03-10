@@ -47,13 +47,12 @@
 <body>
 
 <div class="container">
-  <h2>Mice</h2>
-  <img src="/images/mouse1.jpg" alt="Mice" style="width:100%">
   <div class="panel-group">
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
           <a data-toggle="collapse" href="#mice">Mice</a>
+  		<img src="/images/mouse1.jpg" alt="Mice" style="width:100%">
         </h4>
       </div>
       <div id="mice" class="panel-collapse collapse">
