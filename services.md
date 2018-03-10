@@ -45,6 +45,19 @@
 </head>
 
 <body>
+	<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Page 1</a></li>
+      <li><a href="#">Page 2</a></li>
+      <li><a href="#">Page 3</a></li>
+    </ul>
+  </div>
+</nav>
 	<h2>Services</h2>
 	The table below shows the pests that I treat. Please click on any of the images to display the type of treatment applied/details of visits & follow up appointments.
 <table border="1">
