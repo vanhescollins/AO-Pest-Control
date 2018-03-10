@@ -9,14 +9,14 @@
 <!--Google Maps-->
 <script src="https://maps.google.com/maps/api/js"></script>
 <style>
-#titleDIV {
+.titleDIV {
     width: 100%;
     height: 170px;
     background-color: #004d00;
 	color: white;
 }
 
-#footerDIV {
+.footerDIV {
     width: 100%;
     height: 40px;
     background-color: #004d00;
