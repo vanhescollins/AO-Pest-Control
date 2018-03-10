@@ -3,8 +3,6 @@
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
 	<script src="/js/jquery.min.js"></script>
 	<script src="/js/bootstrap.min.js"></script>
-	<script src="/js/bootstrap-checkbox.min.js"></script>
-	<script src="/js/bootstrap-datepicker.js"></script>
 <!--Google Maps-->
 <script src="https://maps.google.com/maps/api/js"></script>
 <style>
