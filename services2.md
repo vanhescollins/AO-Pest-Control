@@ -54,8 +54,8 @@
 		    <div class="panel panel-default">
 		      <div class="panel-heading">
 			<h4 class="panel-title">
-			  <a data-toggle="collapse" href="#mice">Mice</a>
-				<img src="/images/mouse1.jpg" alt="Mice" style="width:100%">
+			  <a data-toggle="collapse" href="#mice">Mice
+				<img src="/images/mouse1.jpg" alt="Mice" style="width:100%"></a>
 			</h4>
 		      </div>
 		      <div id="mice" class="panel-collapse collapse">
@@ -85,8 +85,8 @@
 		    <div class="panel panel-default">
 		      <div class="panel-heading">
 			<h4 class="panel-title">
-			  <a data-toggle="collapse" href="#rats">Ratss</a>
-			 <img src="/images/rat1.jpg" alt="Rats" style="width:100%">
+			  <a data-toggle="collapse" href="#rats">Rats
+			 <img src="/images/rat1.jpg" alt="Rats" style="width:100%"></a>
 			</h4>
 		      </div>
 		      <div id="rats" class="panel-collapse collapse">
@@ -118,8 +118,8 @@
 		    <div class="panel panel-default">
 		      <div class="panel-heading">
 			<h4 class="panel-title">
-			  <a data-toggle="collapse" href="#bedbug">Bed Bugs</a>
-				<img src="/images/bedbug2.jpg" alt="Bed Bugs" style="width:100%">
+			  <a data-toggle="collapse" href="#bedbug">Bed Bugs
+				<img src="/images/bedbug2.jpg" alt="Bed Bugs" style="width:100%"></a>
 			</h4>
 		      </div>
 		      <div id="bedbug" class="panel-collapse collapse">
@@ -149,8 +149,8 @@
 		    <div class="panel panel-default">
 		      <div class="panel-heading">
 			<h4 class="panel-title">
-			  <a data-toggle="collapse" href="#flea">Fleas</a>
-				<img src="/images/flea1.jpg" alt="Fleas" style="width:100%">
+			  <a data-toggle="collapse" href="#flea">Fleas
+				<img src="/images/flea1.jpg" alt="Fleas" style="width:100%"></a>
 			</h4>
 		      </div>
 		      <div id="flea" class="panel-collapse collapse">
@@ -182,8 +182,8 @@
 		    <div class="panel panel-default">
 		      <div class="panel-heading">
 			<h4 class="panel-title">
-			  <a data-toggle="collapse" href="#cockroach">Cockroaches</a>
-				<img src="/images/cockroach.jpg" alt="Cockroaches" style="width:100%">
+			  <a data-toggle="collapse" href="#cockroach">Cockroaches
+				<img src="/images/cockroach.jpg" alt="Cockroaches" style="width:100%"></a>
 			</h4>
 		      </div>
 		      <div id="cockroach" class="panel-collapse collapse">
@@ -213,8 +213,8 @@
 		    <div class="panel panel-default">
 		      <div class="panel-heading">
 			<h4 class="panel-title">
-			  <a data-toggle="collapse" href="#wasp">Wasps</a>
-				<img src="/images/wasp1.jpg" alt="Wasps" style="width:100%">
+			  <a data-toggle="collapse" href="#wasp">Wasps
+				<img src="/images/wasp1.jpg" alt="Wasps" style="width:100%"></a>
 			</h4>
 		      </div>
 		      <div id="wasp" class="panel-collapse collapse">
@@ -246,8 +246,8 @@
 		    <div class="panel panel-default">
 		      <div class="panel-heading">
 			<h4 class="panel-title">
-			  <a data-toggle="collapse" href="#mole">Moles</a>
-				<img src="/images/mole1.jpg" alt="Moles" style="width:100%">
+			  <a data-toggle="collapse" href="#mole">Moles
+				<img src="/images/mole1.jpg" alt="Moles" style="width:100%"></a>
 			</h4>
 		      </div>
 		      <div id="mole" class="panel-collapse collapse">
@@ -277,8 +277,8 @@
 		    <div class="panel panel-default">
 		      <div class="panel-heading">
 			<h4 class="panel-title">
-			  <a data-toggle="collapse" href="#ants">Ants</a>
-				<img src="/images/ants1.jpg" alt="Ants" style="width:100%">
+			  <a data-toggle="collapse" href="#ants">Ants
+				<img src="/images/ants1.jpg" alt="Ants" style="width:100%"></a>
 			</h4>
 		      </div>
 		      <div id="ants" class="panel-collapse collapse">
