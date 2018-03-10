@@ -3,8 +3,6 @@
 	<link href="/style.css" rel="stylesheet" type="text/css"> 
 	<script src="/js/jquery.min.js"></script>
 	<script src="/js/bootstrap.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="/css/dataTables.bootstrap.min.css">
-	<script src="/js/jquery.dataTables.min.js"></script>
 	<script src="/js/dataTables.bootstrap.min.js">	</script>
 	<script src="/js/bootstrap-checkbox.min.js"></script>
 	<script src="/js/bootstrap-datepicker.js"></script>
@@ -56,8 +54,8 @@
 }
 .navbar-nav.navbar-center {
     position: absolute;
-    left: 50%;
-    transform: translatex(-50%);
+    left: 30%;
+    transform: translatex(-30%);
 }
 </style>
 
@@ -79,7 +77,10 @@
   </div>
 </nav>
 
-
+<table><tr><td>First col</td><td>2nd col</td></tr>
+	<tr><td>First col</td><td>2nd col</td></tr>
+	<tr><td>First col</td><td>2nd col</td></tr>
+	</table><br><br>
 CONTENT HERE
 
 <div id="footerDIV">
