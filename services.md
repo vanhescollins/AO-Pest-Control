@@ -49,9 +49,9 @@
   <div class="container-fluid">
     <ul class="nav navbar-nav">
       <li class="active"><a href="readme2">Home</a></li>
-      <li><a href="about">About</a></li>
+      <li><a href="About">About</a></li>
       <li><a href="services">Services</a></li>
-      <li><a href="contactus">Contact</a></li>
+      <li><a href="ContactUs">Contact</a></li>
     </ul>
   </div>
 </nav>
