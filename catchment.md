@@ -63,7 +63,23 @@
 
 <body>
 <div id="titleDIV">
-	A O Pest Control
+	<table width="90%" align="center">
+	<tr>
+		<td align="center">
+			<h1>AO Pest Control</H1>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">	
+			<h4><i>Your first port of call for unwanted pests</i></h4>
+		</td>
+	</tr>
+	<tr>
+		<td align="left">
+			<h3>Tel : 07808***757</h3>
+		</td>
+	</tr>
+</table>
 </div>
 <nav class="navbar navbar-default">
   <div class="container-fluid">
@@ -77,13 +93,57 @@
   </div>
 </nav>
 
-<table><tr><td>First col</td><td>2nd col</td></tr>
-	<tr><td>First col</td><td>2nd col</td></tr>
-	<tr><td>First col</td><td>2nd col</td></tr>
-	</table><br><br>
-CONTENT HERE
-
+<table width="90%">
+		<tr>
+			<td  valign="top">
+				<table>
+					<tr>
+						<td colspan="3" align="center">
+							<br><br>I cover many areas in West Yorkshire, including:
+						</td>
+					</tr>
+					<tr>
+						<td width="30%"></td>
+						<td>
+							<ul>
+								<li>Addingham</li>
+								<li>Baildon</li>
+								<li>Bradford</li>
+								<li>Bingley</li>
+								<li>Ilkley</li>
+								<li>Keighley</li>
+								<li>Shipley</li>
+								<li>Silsden</li>
+								<li>Skipton</li>
+								<li>Steeton</li>
+							</ul>
+						</td>
+						<td width="30%"></td>
+					</tr>
+				</table>
+			</td>
+			<td>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d75268.88852053697!2d-1.862902110632522!3d53.87571202898417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1520697921948" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>	
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" align="center">
+				<b>Hours of Business</b><br>
+				
+					Monday - Friday 07:30 hours - 17:00 hours.<br>
+					Weekends by prior arrangement, please call me on 07*****757 to discuss your requirements.
+				
+			</td>
+		</tr>
+	</table>
+<br><br>
 <div id="footerDIV">
-Footer
+<table width="90%" align="center">
+	<tr>
+		<td align="center">
+			<h4><i>Call 07808***757 today for a no obligation, free estimate!</i></h4>
+		</td>
+	</tr>
+</table>
 </div>
 </body>
