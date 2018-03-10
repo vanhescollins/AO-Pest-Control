@@ -14,7 +14,7 @@
 .container {
     position: relative;
     width: 100%;
-    max-width: 700px;
+    max-width: 400px;
 }
 
 .container img {
@@ -45,253 +45,265 @@
 </head>
 
 <body>
-<div class="container">
-  <div class="row">
-    <div class="col-*-*">1</div>
-    <div class="col-*-*">2</div>
-  </div>
-  <div class="row">
-    <div class="col-*-*">3</div>
-    <div class="col-*-*">4</div>
-    <div class="col-*-*">5</div>
-  </div>
-  <div class="row">
-    ...
-  </div>
-</div>
+<table border="1">
+<tr>
+	<td>
 
-<div class="container">
-  <div class="panel-group">
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" href="#mice">Mice</a>
-  		<img src="/images/mouse1.jpg" alt="Mice" style="width:100%">
-        </h4>
-      </div>
-      <div id="mice" class="panel-collapse collapse">
-        <div class="panel-body">
-        <h5>Recommended Treatment for Mice</h5>
-          <ul>
-          <li>Details of treatment</li>
-          <li>Details of treatment</li>
-          <li>Details of treatment</li>
-          </ul>
-          <h5>Visits/Follow up Details</h5>
-          <ul>
-          <li>Visit/Follow up</li>
-          <li>Visit/Follow up</li>
-          <li>Visit/Follow up</li>
-          </ul>
-        </div>
-        <div class="panel-footer">Call for more details : 07***530757</div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="container">
-  <div class="panel-group">
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" href="#rats">Ratss</a>
- 	 <img src="/images/rat1.jpg" alt="Rats" style="width:100%">
-        </h4>
-      </div>
-      <div id="rats" class="panel-collapse collapse">
-        <div class="panel-body">
-        <h5>Recommended Treatment for Rats</h5>
-          <ul>
-          <li>Details of treatment</li>
-          <li>Details of treatment</li>
-          <li>Details of treatment</li>
-          </ul>
-          <h5>Visits/Follow up Details</h5>
-          <ul>
-          <li>Visit/Follow up</li>
-          <li>Visit/Follow up</li>
-          <li>Visit/Follow up</li>
-          </ul>
-        </div>
-        <div class="panel-footer">Call for more details : 07***530757</div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="container">
-  <div class="panel-group">
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" href="#bedbug">Bed Bugs</a>
-  		<img src="/images/bedbug2.jpg" alt="Bed Bugs" style="width:100%">
-        </h4>
-      </div>
-      <div id="bedbug" class="panel-collapse collapse">
-        <div class="panel-body">
-        <h5>Recommended Treatment for Bed Bugs</h5>
-          <ul>
-          <li>Details of treatment</li>
-          <li>Details of treatment</li>
-          <li>Details of treatment</li>
-          </ul>
-          <h5>Visits/Follow up Details</h5>
-          <ul>
-          <li>Visit/Follow up</li>
-          <li>Visit/Follow up</li>
-          <li>Visit/Follow up</li>
-          </ul>
-        </div>
-        <div class="panel-footer">Call for more details : 07***530757</div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="container">
-  <div class="panel-group">
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" href="#flea">Fleas</a>
-  		<img src="/images/flea1.jpg" alt="Fleas" style="width:100%">
-        </h4>
-      </div>
-      <div id="flea" class="panel-collapse collapse">
-        <div class="panel-body">
-        <h5>Recommended Treatment for Fleas</h5>
-          <ul>
-          <li>Details of treatment</li>
-          <li>Details of treatment</li>
-          <li>Details of treatment</li>
-          </ul>
-          <h5>Visits/Follow up Details</h5>
-          <ul>
-          <li>Visit/Follow up</li>
-          <li>Visit/Follow up</li>
-          <li>Visit/Follow up</li>
-          </ul>
-        </div>
-        <div class="panel-footer">Call for more details : 07***530757</div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="container">
-  <div class="panel-group">
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" href="#cockroach">Cockroaches</a>
-  		<img src="/images/cockroach.jpg" alt="Cockroaches" style="width:100%">
-        </h4>
-      </div>
-      <div id="cockroach" class="panel-collapse collapse">
-        <div class="panel-body">
-        <h5>Recommended Treatment for Cockroaches</h5>
-          <ul>
-          <li>Details of treatment</li>
-          <li>Details of treatment</li>
-          <li>Details of treatment</li>
-          </ul>
-          <h5>Visits/Follow up Details</h5>
-          <ul>
-          <li>Visit/Follow up</li>
-          <li>Visit/Follow up</li>
-          <li>Visit/Follow up</li>
-          </ul>
-        </div>
-        <div class="panel-footer">Call for more details : 07***530757</div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="container">
-  <div class="panel-group">
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" href="#wasp">Wasps</a>
-  		<img src="/images/wasp1.jpg" alt="Wasps" style="width:100%">
-        </h4>
-      </div>
-      <div id="wasp" class="panel-collapse collapse">
-        <div class="panel-body">
-        <h5>Recommended Treatment for Wasps</h5>
-          <ul>
-          <li>Details of treatment</li>
-          <li>Details of treatment</li>
-          <li>Details of treatment</li>
-          </ul>
-          <h5>Visits/Follow up Details</h5>
-          <ul>
-          <li>Visit/Follow up</li>
-          <li>Visit/Follow up</li>
-          <li>Visit/Follow up</li>
-          </ul>
-        </div>
-        <div class="panel-footer">Call for more details : 07***530757</div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="container">
-  <div class="panel-group">
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" href="#mole">Moles</a>
-  		<img src="/images/mole1.jpg" alt="Moles" style="width:100%">
-        </h4>
-      </div>
-      <div id="mole" class="panel-collapse collapse">
-        <div class="panel-body">
-        <h5>Recommended Treatment for Moles</h5>
-          <ul>
-          <li>Details of treatment</li>
-          <li>Details of treatment</li>
-          <li>Details of treatment</li>
-          </ul>
-          <h5>Visits/Follow up Details</h5>
-          <ul>
-          <li>Visit/Follow up</li>
-          <li>Visit/Follow up</li>
-          <li>Visit/Follow up</li>
-          </ul>
-        </div>
-        <div class="panel-footer">Call for more details : 07***530757</div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="container">
-  <div class="panel-group">
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" href="#ants">Ants</a>
-  		<img src="/images/ants1.jpg" alt="Ants" style="width:100%">
-        </h4>
-      </div>
-      <div id="ants" class="panel-collapse collapse">
-        <div class="panel-body">
-        <h5>Recommended Treatment for Ants</h5>
-          <ul>
-          <li>Details of treatment</li>
-          <li>Details of treatment</li>
-          <li>Details of treatment</li>
-          </ul>
-          <h5>Visits/Follow up Details</h5>
-          <ul>
-          <li>Visit/Follow up</li>
-          <li>Visit/Follow up</li>
-          <li>Visit/Follow up</li>
-          </ul>
-        </div>
-        <div class="panel-footer">Call for more details : 07***530757</div>
-      </div>
-    </div>
-  </div>
-</div>
+		<div class="container">
+		  <div class="panel-group">
+		    <div class="panel panel-default">
+		      <div class="panel-heading">
+			<h4 class="panel-title">
+			  <a data-toggle="collapse" href="#mice">Mice</a>
+				<img src="/images/mouse1.jpg" alt="Mice" style="width:100%">
+			</h4>
+		      </div>
+		      <div id="mice" class="panel-collapse collapse">
+			<div class="panel-body">
+			<h5>Recommended Treatment for Mice</h5>
+			  <ul>
+			  <li>Details of treatment</li>
+			  <li>Details of treatment</li>
+			  <li>Details of treatment</li>
+			  </ul>
+			  <h5>Visits/Follow up Details</h5>
+			  <ul>
+			  <li>Visit/Follow up</li>
+			  <li>Visit/Follow up</li>
+			  <li>Visit/Follow up</li>
+			  </ul>
+			</div>
+			<div class="panel-footer">Call for more details : 07***530757</div>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+	</td>
+	<td>
+		<div class="container">
+		  <div class="panel-group">
+		    <div class="panel panel-default">
+		      <div class="panel-heading">
+			<h4 class="panel-title">
+			  <a data-toggle="collapse" href="#rats">Ratss</a>
+			 <img src="/images/rat1.jpg" alt="Rats" style="width:100%">
+			</h4>
+		      </div>
+		      <div id="rats" class="panel-collapse collapse">
+			<div class="panel-body">
+			<h5>Recommended Treatment for Rats</h5>
+			  <ul>
+			  <li>Details of treatment</li>
+			  <li>Details of treatment</li>
+			  <li>Details of treatment</li>
+			  </ul>
+			  <h5>Visits/Follow up Details</h5>
+			  <ul>
+			  <li>Visit/Follow up</li>
+			  <li>Visit/Follow up</li>
+			  <li>Visit/Follow up</li>
+			  </ul>
+			</div>
+			<div class="panel-footer">Call for more details : 07***530757</div>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<div class="container">
+		  <div class="panel-group">
+		    <div class="panel panel-default">
+		      <div class="panel-heading">
+			<h4 class="panel-title">
+			  <a data-toggle="collapse" href="#bedbug">Bed Bugs</a>
+				<img src="/images/bedbug2.jpg" alt="Bed Bugs" style="width:100%">
+			</h4>
+		      </div>
+		      <div id="bedbug" class="panel-collapse collapse">
+			<div class="panel-body">
+			<h5>Recommended Treatment for Bed Bugs</h5>
+			  <ul>
+			  <li>Details of treatment</li>
+			  <li>Details of treatment</li>
+			  <li>Details of treatment</li>
+			  </ul>
+			  <h5>Visits/Follow up Details</h5>
+			  <ul>
+			  <li>Visit/Follow up</li>
+			  <li>Visit/Follow up</li>
+			  <li>Visit/Follow up</li>
+			  </ul>
+			</div>
+			<div class="panel-footer">Call for more details : 07***530757</div>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+	</td>
+	<td>
+		<div class="container">
+		  <div class="panel-group">
+		    <div class="panel panel-default">
+		      <div class="panel-heading">
+			<h4 class="panel-title">
+			  <a data-toggle="collapse" href="#flea">Fleas</a>
+				<img src="/images/flea1.jpg" alt="Fleas" style="width:100%">
+			</h4>
+		      </div>
+		      <div id="flea" class="panel-collapse collapse">
+			<div class="panel-body">
+			<h5>Recommended Treatment for Fleas</h5>
+			  <ul>
+			  <li>Details of treatment</li>
+			  <li>Details of treatment</li>
+			  <li>Details of treatment</li>
+			  </ul>
+			  <h5>Visits/Follow up Details</h5>
+			  <ul>
+			  <li>Visit/Follow up</li>
+			  <li>Visit/Follow up</li>
+			  <li>Visit/Follow up</li>
+			  </ul>
+			</div>
+			<div class="panel-footer">Call for more details : 07***530757</div>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<div class="container">
+		  <div class="panel-group">
+		    <div class="panel panel-default">
+		      <div class="panel-heading">
+			<h4 class="panel-title">
+			  <a data-toggle="collapse" href="#cockroach">Cockroaches</a>
+				<img src="/images/cockroach.jpg" alt="Cockroaches" style="width:100%">
+			</h4>
+		      </div>
+		      <div id="cockroach" class="panel-collapse collapse">
+			<div class="panel-body">
+			<h5>Recommended Treatment for Cockroaches</h5>
+			  <ul>
+			  <li>Details of treatment</li>
+			  <li>Details of treatment</li>
+			  <li>Details of treatment</li>
+			  </ul>
+			  <h5>Visits/Follow up Details</h5>
+			  <ul>
+			  <li>Visit/Follow up</li>
+			  <li>Visit/Follow up</li>
+			  <li>Visit/Follow up</li>
+			  </ul>
+			</div>
+			<div class="panel-footer">Call for more details : 07***530757</div>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+	</td>
+	<td>
+		<div class="container">
+		  <div class="panel-group">
+		    <div class="panel panel-default">
+		      <div class="panel-heading">
+			<h4 class="panel-title">
+			  <a data-toggle="collapse" href="#wasp">Wasps</a>
+				<img src="/images/wasp1.jpg" alt="Wasps" style="width:100%">
+			</h4>
+		      </div>
+		      <div id="wasp" class="panel-collapse collapse">
+			<div class="panel-body">
+			<h5>Recommended Treatment for Wasps</h5>
+			  <ul>
+			  <li>Details of treatment</li>
+			  <li>Details of treatment</li>
+			  <li>Details of treatment</li>
+			  </ul>
+			  <h5>Visits/Follow up Details</h5>
+			  <ul>
+			  <li>Visit/Follow up</li>
+			  <li>Visit/Follow up</li>
+			  <li>Visit/Follow up</li>
+			  </ul>
+			</div>
+			<div class="panel-footer">Call for more details : 07***530757</div>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td>
+		<div class="container">
+		  <div class="panel-group">
+		    <div class="panel panel-default">
+		      <div class="panel-heading">
+			<h4 class="panel-title">
+			  <a data-toggle="collapse" href="#mole">Moles</a>
+				<img src="/images/mole1.jpg" alt="Moles" style="width:100%">
+			</h4>
+		      </div>
+		      <div id="mole" class="panel-collapse collapse">
+			<div class="panel-body">
+			<h5>Recommended Treatment for Moles</h5>
+			  <ul>
+			  <li>Details of treatment</li>
+			  <li>Details of treatment</li>
+			  <li>Details of treatment</li>
+			  </ul>
+			  <h5>Visits/Follow up Details</h5>
+			  <ul>
+			  <li>Visit/Follow up</li>
+			  <li>Visit/Follow up</li>
+			  <li>Visit/Follow up</li>
+			  </ul>
+			</div>
+			<div class="panel-footer">Call for more details : 07***530757</div>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+	</td>
+	<td>
+		<div class="container">
+		  <div class="panel-group">
+		    <div class="panel panel-default">
+		      <div class="panel-heading">
+			<h4 class="panel-title">
+			  <a data-toggle="collapse" href="#ants">Ants</a>
+				<img src="/images/ants1.jpg" alt="Ants" style="width:100%">
+			</h4>
+		      </div>
+		      <div id="ants" class="panel-collapse collapse">
+			<div class="panel-body">
+			<h5>Recommended Treatment for Ants</h5>
+			  <ul>
+			  <li>Details of treatment</li>
+			  <li>Details of treatment</li>
+			  <li>Details of treatment</li>
+			  </ul>
+			  <h5>Visits/Follow up Details</h5>
+			  <ul>
+			  <li>Visit/Follow up</li>
+			  <li>Visit/Follow up</li>
+			  <li>Visit/Follow up</li>
+			  </ul>
+			</div>
+			<div class="panel-footer">Call for more details : 07***530757</div>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+	</td>
+</tr>
+</table>
 <a href="/AO-Pest-Control/">Back to Home</a><br>
 <a href="About">About</a><br>
 <a href="services">Services</a><br>
