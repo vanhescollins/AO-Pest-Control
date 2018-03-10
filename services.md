@@ -10,8 +10,40 @@
 	<script src="/js/dataTables.bootstrap.min.js">	</script>
 	<script src="/js/bootstrap-checkbox.min.js"></script>
 	<script src="/js/bootstrap-datepicker.js"></script>
+<style>
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+}
 
+.container img {
+    width: 100%;
+    height: auto;
+}
+
+.container .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.container .btn:hover {
+    background-color: black;
+}
+</style>
 </head>
+
 <body>
 
 <div class="container">
@@ -49,6 +81,7 @@
   </div>
 </div>
 <div class="container">
+  <img src="images/rat1.jpg" alt="Rats" style="width:100%">
   <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#rats">Rats</button>
   <div id="rats" class="collapse">
 	  <h5>Recommended Treatment</h5>
@@ -65,7 +98,10 @@
 	  </ul>
   </div>
 </div>
-
+<div class="container">
+  <img src="images/bedbug2.jpg" alt="Bedbug" style="width:100%">
+  <button class="btn">Button</button>
+</div>
 <a href="/AO-Pest-Control/">Back to Home</a><br>
 <a href="About">About</a><br>
 <a href="services">Services</a><br>
