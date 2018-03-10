@@ -60,7 +60,7 @@
 <table border="1">
 <tr>
 	<td>
-		<img src="/images/ao2.jpg" class="img-circle" alt="Andrew"  width="304" height="236">
+		<img src="/images/ao2.jpg" class="img-circle" alt="Andrew"  width="151" height="118">
 	
 	</td>
 	<td>
