@@ -22,6 +22,10 @@
     background-color: #004d00;
 	color: white;
 }
+.body {
+    width: 100%;
+}
+
 .container {
     position: relative;
     width: 100%;
@@ -62,7 +66,7 @@
 </head>
 <body>
 <table width="100%" border="1">
-	<tr><td>Here</td></td></tr>
+	<tr><td>Here</td></tr>
 <tr><td>
 	<div id="titleDIV">
 		<table width="90%" align="center">
