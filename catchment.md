@@ -1,5 +1,5 @@
 <head>
-<link href="/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/css/bootstrap.min.css" rel="stylesheet">
 	<link href="/style.css" rel="stylesheet" type="text/css"> 
 	<script src="/js/jquery.min.js"></script>
 	<script src="/js/bootstrap.min.js"></script>
@@ -60,7 +60,6 @@
 </style>
 
 </head>
-
 <body>
 <div id="titleDIV">
 	<table width="90%" align="center">
@@ -94,13 +93,5 @@
 </nav>
 
 Content here
-<div id="footerDIV">
-<table width="90%" align="center">
-	<tr>
-		<td align="center">
-			<h4><i>Call 07808***757 today for a no obligation, free estimate!</i></h4>
-		</td>
-	</tr>
-</table>
-</div>
+
 </body>
