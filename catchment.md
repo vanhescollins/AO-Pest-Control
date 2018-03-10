@@ -96,7 +96,7 @@
     </ul>
   </div>
 </nav>
-
+<br>
 	<h2>Areas I Serve</h2>
 	<table width="90%">
 		<tr>
