@@ -1,4 +1,3 @@
-<html>
 <head>
 <link href="/css/bootstrap.min.css" rel="stylesheet">
 	<link href="/style.css" rel="stylesheet" type="text/css"> 
@@ -157,4 +156,3 @@
 </table>
 </div>
 </body>
-</html>
