@@ -45,6 +45,8 @@
 </head>
 
 <body>
+	<h2>Services</h2>
+	The table below shows the pests that I treat. Please click on any of the images to display the type of treatment applied/details of visits & follow up appointments.
 <table border="1">
 <tr>
 	<td>
