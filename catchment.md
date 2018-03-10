@@ -95,54 +95,8 @@
   </div>
 </nav>
 
-	<h2>Areas I Serve</h2>
-	<table width="90%">
-		<tr>
-			<td  valign="top">
-				<table>
-					<tr>
-						<td colspan="3" align="center">
-							<br><br>I cover many areas in West Yorkshire, including:
-						</td>
-					</tr>
-					<tr>
-						<td width="30%"></td>
-						<td>
-							<ul>
-								<li>Addingham</li>
-								<li>Baildon</li>
-								<li>Bradford</li>
-								<li>Bingley</li>
-								<li>Ilkley</li>
-								<li>Keighley</li>
-								<li>Shipley</li>
-								<li>Silsden</li>
-								<li>Skipton</li>
-								<li>Steeton</li>
-							</ul>
-						</td>
-						<td width="30%"></td>
-					</tr>
-				</table>
-			</td>
-			<td>
-				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d75268.88852053697!2d-1.862902110632522!3d53.87571202898417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1520697921948" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>	
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" align="center">
-				<b>Hours of Business</b><br>
-				
-					Monday - Friday 07:30 hours - 17:00 hours.<br>
-					Weekends by prior arrangement, please call me on 07*****757 to discuss your requirements.
-				
-			</td>
-		</tr>
-	</table>
-<br><br>
-<!-- **********************************************
-**************************************************
--->
+
+CONTENT HERE
 
 <div id="footerDIV">
 <table width="90%" align="center">
