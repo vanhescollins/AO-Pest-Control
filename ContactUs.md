@@ -21,6 +21,16 @@ function validateForm() {
 </script>
 </head>
 <body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <ul class="nav navbar-nav">
+      <li><a href="readme2">Home</a></li>
+      <li><a href="About">About</a></li>
+      <li><a href="services">Services</a></li>
+      <li class="active><a href="ContactUs">Contact</a></li>
+    </ul>
+  </div>
+</nav>
 <h1>Contact Us</h1>
 <form name="myForm" action="/action_page.php"
 onsubmit="return validateForm()" method="post">
