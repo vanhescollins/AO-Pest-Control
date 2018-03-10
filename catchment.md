@@ -66,7 +66,7 @@
 </head>
 <body>
 <table width="100%" border="1">
-	<tr><td>Here</td></tr>
+	<tr><td>Here</td><td>col2</td><td>col3</td></tr>
 <tr><td>
 	<div id="titleDIV">
 		<table width="90%" align="center">
