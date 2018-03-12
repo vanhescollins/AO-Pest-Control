@@ -75,7 +75,7 @@ function validateForm() {
 
 <body>
 <div id="titleDIV">
-<table width="90%" align="center">
+<table width="100%" align="center">
 	<tr>
 		<td align="center">
 			<h1>AO Pest Control</H1>
@@ -155,4 +155,3 @@ function validateForm() {
 
 
 </body>
-</html>
