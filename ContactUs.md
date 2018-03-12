@@ -74,10 +74,11 @@ function validateForm() {
 
 <body>
 <div id="titleDIV">
-<h1>AO Pest Control</H1>
-	<br>	
-			<h4><i>Your first port of call for unwanted pests</i></h4>
-
+	<div align="center">
+		<h1>AO Pest Control</H1>
+		<br>	
+		<h4><i>Your first port of call for unwanted pests</i></h4>
+	</div>
 </div>
 
 <div align="center">
